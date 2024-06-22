@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/DeeCeeXxx/Gojou-MD /root/Gojou-MD
+RUN git clone https://github.com/malvinking/malvin-md /root/Gojou-MD
 WORKDIR /root/Gojou-MD/
 
 
