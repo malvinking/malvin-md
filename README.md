@@ -20,7 +20,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
 
-## Gojou-MD Deployment Methods
+## ᴍᴀʟᴠɪɴ-ᴍᴅ Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/malvinking/malvin-md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojoulsion-05ea27b8ff9a.herokuapp.com/pair) 
