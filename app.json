@@ -1,9 +1,9 @@
 {
-  "name":"Gojou-MD",
-  "description":"Deploy now your Gojou md ,Brought to you by the David Cyril.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"ᴍᴀʟᴠɪɴ-ᴍᴅ",
+  "description":"Deploy now your ᴍᴀʟᴠɪɴ-ᴍᴅ ,Brought to you by the ᴍᴀʟᴠɪɴ-ᴋɪɴɢ.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/YKVlucn.jpeg",
-  "repository":"https://github.com/DeeCeeXxx/Gojou-MD",
+  "logo":"https://i.imgur.com/ozlwHK1.jpeg",
+  "repository":"https://github.com/malvinking/malvin-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Gojo MD",
+      "value":"ᴍᴀʟᴠɪɴ-ᴍᴅ",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"DONT EDIT THIS,  SKIP IT.!!!! .",
-      "value":"https://i.imgur.com/YKVlucn.jpeg,https://i.imgur.com/8HAg3bW.jpeg,https://i.imgur.com/OF7xVX9.jpeg,https://i.imgur.com/xMZ57Zv.jpeg,https://i.imgur.com/m1NCQ2q.jpeg,https://i.imgur.com/NNvjna5.jpeg,https://telegra.ph/file/e5de195eb674343485ec2.mp4",
+      "value":"https://i.imgur.com/ozlwHK1.jpeg,https://i.imgur.com/8HAg3bW.jpeg,https://i.imgur.com/OF7xVX9.jpeg,https://i.imgur.com/xMZ57Zv.jpeg,https://i.imgur.com/m1NCQ2q.jpeg,https://i.imgur.com/NNvjna5.jpeg,https://telegra.ph/file/e5de195eb674343485ec2.mp4",
       "required":false
        
      },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "David Cyril"
+    "value": "ᴍᴀʟᴠɪɴ-ᴋɪɴɢ"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '234')",
     "required":false,
-    "value": "2349066528353"
+    "value": "263780166288"
   },
     "WARN_COUNT":
   {
