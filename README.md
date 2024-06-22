@@ -4,12 +4,12 @@
 <u>⚡ A simple WhatsApp User Bot Coded By ᴍᴀʟᴠɪɴ ᴋɪɴɢ ⚡</u>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/YKVlucn.jpeg"/>       
+<img src="https://i.imgur.com/ozlwHK1.jpeg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+ᴍᴀʟᴠɪɴ-+ᴍᴅ__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ᴍᴀʟᴠɪ+ᴍᴅ;RELEASED+DATE+18%2F7%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ᴍᴀʟᴠɪɴ-ᴋɪɴɢ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Malvin_King-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/malvinking/malvin-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/malvinking/malvin-md?color=blue&style=flat-square"></a>
