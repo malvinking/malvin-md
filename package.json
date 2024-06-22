@@ -1,5 +1,5 @@
 {
-  "name": "Gojou-MD",
+  "name": "malvin-md",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Gojou-MD",
+    "malvin-md",
     "whatsapp",
     "whatsapp-bot",
-    "David Cyril",
+    "Malvin King",
     "Gojou-MD",
-    "DeeCeeXxx",
-    "Gojou-MD"
+    "malvinking",
+    "malvin-md"
   ],
-  "author": "David Cyril",
+  "author": "Malvin King",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
