@@ -23,8 +23,8 @@
 ## ᴍᴀʟᴠɪɴ-ᴍᴅ Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/malvinking/malvin-md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojoulsion-05ea27b8ff9a.herokuapp.com/pair) 
- OR BY [`SCANNING QR CODE`](https://gojssion-05ea27b8ff9a.herokuap.com/wasiqr)** 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://malvin-md-sessions-c53a04e6f810.herokuapp.com/pair) 
+ OR BY [`ᴍᴀʟᴠɪɴ-ᴍᴅ app`](https://malvin-md-sessions-c53a04e6f810.herokuapp.com/)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/malvinking/malvin-md)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VailCeL6xCSY6gxO2C2M) for more**
 9. **All Tutorials Are `COMING SOON`**
